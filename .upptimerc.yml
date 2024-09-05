@@ -3,7 +3,7 @@ repo: djstraka-detector
 
 sites:
   - name: DJ Straka Web
-    url: https://djstraka.com
+    url: https://www.djstraka.com
   - name: DJ Straka Cloud
     url: https://cloud.djstraka.com
   - name: Betoon Web
