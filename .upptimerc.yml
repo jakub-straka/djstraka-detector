@@ -2,8 +2,10 @@ owner: jakub-straka
 repo: djstraka-detector
 
 sites:
+  - name: Google
+    url: https://google.com
   - name: DJ Straka Web
-    url: https://www.djstraka.com
+    url: https://djstraka.com
   - name: DJ Straka Cloud
     url: https://cloud.djstraka.com
   - name: Betoon Web
@@ -12,8 +14,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.djstraka.com
-  # baseUrl: /your-repo-name
+  # cname: status.djstraka.com
+  baseUrl: /djstraka-detector
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DJ Straka Detector
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
