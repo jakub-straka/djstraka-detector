@@ -24,8 +24,6 @@ sites:
     url: https://cloud.djstraka.com
   - name: Betoon Web
     url: https://betoonproduction.com
-  - name: DJ Straka Web
-    url: https://www.djstraka.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
