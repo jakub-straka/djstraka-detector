@@ -4,8 +4,22 @@ repo: djstraka-detector
 sites:
   - name: Google
     url: https://google.com
-  - name: DJ Straka Web
-    url: https://djstraka.com
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+  - name: CloudFlare DNS 1
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: CloudFlare DNS 2
+    check: "tcp-ping"
+    url: 1.0.0.1
+    port: 53
   - name: DJ Straka Cloud
     url: https://cloud.djstraka.com
   - name: Betoon Web
