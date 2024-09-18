@@ -2,8 +2,6 @@ owner: jakub-straka
 repo: djstraka-detector
 
 sites:
-  - name: Google
-    url: https://google.com
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
@@ -24,6 +22,8 @@ sites:
     url: https://cloud.djstraka.com
   - name: Betoon Web
     url: https://betoonproduction.com
+  - name: Lucas Barbershop
+    url: https://lucasbarbershop.sk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
