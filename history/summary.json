@@ -94,18 +94,20 @@
     "url": "https://betoonproduction.com",
     "icon": "https://icons.duckduckgo.com/ip3/betoonproduction.com.ico",
     "slug": "betoon-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 1224,
-    "timeWeek": 1134,
-    "timeMonth": 1157,
-    "timeYear": 1202,
-    "dailyMinutesDown": {}
+    "time": 1199,
+    "timeDay": 1109,
+    "timeWeek": 1116,
+    "timeMonth": 1152,
+    "timeYear": 1199,
+    "dailyMinutesDown": {
+      "2024-10-23": 0
+    }
   },
   {
     "name": "Lucas Barbershop",
