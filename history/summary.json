@@ -94,19 +94,19 @@
     "url": "https://betoonproduction.com",
     "icon": "https://icons.duckduckgo.com/ip3/betoonproduction.com.ico",
     "slug": "betoon-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1109,
-    "timeWeek": 1116,
-    "timeMonth": 1152,
-    "timeYear": 1199,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1200,
+    "timeDay": 1162,
+    "timeWeek": 1133,
+    "timeMonth": 1155,
+    "timeYear": 1200,
     "dailyMinutesDown": {
-      "2024-10-23": 0
+      "2024-10-23": 22
     }
   },
   {
