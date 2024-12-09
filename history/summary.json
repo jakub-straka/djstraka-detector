@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
-    "timeWeek": 4,
+    "timeDay": 9,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
-    "timeWeek": 4,
+    "timeDay": 9,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -77,16 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.djstraka.com.ico",
     "slug": "dj-straka-cloud",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1106,
-    "timeDay": 946,
-    "timeWeek": 1063,
-    "timeMonth": 1123,
-    "timeYear": 1106,
+    "uptimeYear": "99.99%",
+    "time": 1108,
+    "timeDay": 1331,
+    "timeWeek": 1081,
+    "timeMonth": 1098,
+    "timeYear": 1108,
     "dailyMinutesDown": {
       "2024-11-07": 20
     }
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1209,
-    "timeDay": 902,
-    "timeWeek": 1138,
-    "timeMonth": 1164,
-    "timeYear": 1209,
+    "time": 1210,
+    "timeDay": 1318,
+    "timeWeek": 1090,
+    "timeMonth": 1162,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2024-10-23": 22
     }
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2789,
-    "timeDay": 1829,
-    "timeWeek": 2279,
-    "timeMonth": 2393,
-    "timeYear": 2789,
+    "time": 2791,
+    "timeDay": 2982,
+    "timeWeek": 2252,
+    "timeMonth": 2389,
+    "timeYear": 2791,
     "dailyMinutesDown": {}
   }
 ]
