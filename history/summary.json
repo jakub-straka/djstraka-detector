@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 5,
     "timeDay": 2,
-    "timeWeek": 4,
+    "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 5,
     "dailyMinutesDown": {}
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1111,
-    "timeDay": 1773,
-    "timeWeek": 1156,
-    "timeMonth": 1127,
-    "timeYear": 1111,
+    "time": 1112,
+    "timeDay": 1249,
+    "timeWeek": 1195,
+    "timeMonth": 1122,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2024-11-07": 20
     }
@@ -97,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/betoonproduction.com.ico",
     "slug": "betoon-web",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1208,
-    "timeDay": 1508,
-    "timeWeek": 1175,
-    "timeMonth": 1161,
-    "timeYear": 1208,
+    "uptimeYear": "99.99%",
+    "time": 1212,
+    "timeDay": 1707,
+    "timeWeek": 1269,
+    "timeMonth": 1176,
+    "timeYear": 1212,
     "dailyMinutesDown": {
       "2024-10-23": 22
     }
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2759,
-    "timeDay": 2492,
-    "timeWeek": 2379,
-    "timeMonth": 2353,
-    "timeYear": 2759,
+    "time": 2755,
+    "timeDay": 2420,
+    "timeWeek": 2382,
+    "timeMonth": 2337,
+    "timeYear": 2755,
     "dailyMinutesDown": {}
   }
 ]
