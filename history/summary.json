@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 6,
-    "timeWeek": 5,
+    "timeDay": 5,
+    "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1134,
-    "timeDay": 1238,
-    "timeWeek": 1013,
-    "timeMonth": 1164,
-    "timeYear": 1134,
+    "time": 1133,
+    "timeDay": 945,
+    "timeWeek": 1017,
+    "timeMonth": 1161,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2024-11-07": 20
     }
@@ -97,18 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/betoonproduction.com.ico",
     "slug": "betoon-web",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.93%",
-    "time": 1223,
-    "timeDay": 995,
-    "timeWeek": 1100,
-    "timeMonth": 1238,
-    "timeYear": 1223,
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.94%",
+    "time": 1222,
+    "timeDay": 1019,
+    "timeWeek": 1115,
+    "timeMonth": 1237,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-02-22": 11,
       "2025-02-01": 134,
       "2024-10-23": 22
     }
@@ -120,17 +119,15 @@
     "slug": "lucas-barbershop",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2486,
-    "timeDay": 1706,
-    "timeWeek": 1876,
-    "timeMonth": 2021,
-    "timeYear": 2486,
-    "dailyMinutesDown": {
-      "2025-02-22": 11
-    }
+    "time": 2483,
+    "timeDay": 1770,
+    "timeWeek": 1853,
+    "timeMonth": 2030,
+    "timeYear": 2483,
+    "dailyMinutesDown": {}
   }
 ]
