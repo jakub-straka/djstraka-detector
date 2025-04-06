@@ -96,9 +96,9 @@
     "url": "https://betoonproduction.com",
     "icon": "https://icons.duckduckgo.com/ip3/betoonproduction.com.ico",
     "slug": "betoon-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -108,6 +108,7 @@
     "timeMonth": 1168,
     "timeYear": 1214,
     "dailyMinutesDown": {
+      "2025-04-06": 0,
       "2025-02-01": 134,
       "2024-10-23": 22
     }
