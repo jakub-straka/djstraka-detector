@@ -20,10 +20,12 @@ sites:
     port: 53
   - name: DJ Straka Cloud
     url: https://cloud.djstraka.com
-  - name: Betoon Web
-    url: https://betoonproduction.com
   - name: Lucas Barbershop
     url: https://lucasbarbershop.sk
+  - name: RRaw
+    url: https://rraw.sk
+  - name: Woof Pack
+    url: https://woofpack.sk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
