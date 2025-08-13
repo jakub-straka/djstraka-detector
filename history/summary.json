@@ -100,19 +100,19 @@
     "url": "https://lucasbarbershop.sk",
     "icon": "https://icons.duckduckgo.com/ip3/lucasbarbershop.sk.ico",
     "slug": "lucas-barbershop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2405,
-    "timeDay": 2651,
-    "timeWeek": 2702,
-    "timeMonth": 2467,
-    "timeYear": 2405,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
+    "time": 2404,
+    "timeDay": 2257,
+    "timeWeek": 2597,
+    "timeMonth": 2448,
+    "timeYear": 2404,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 102
     }
   },
   {
