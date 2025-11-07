@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
+    "timeDay": 13,
     "timeWeek": 7,
     "timeMonth": 6,
     "timeYear": 4,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
+    "timeDay": 13,
     "timeWeek": 7,
     "timeMonth": 6,
     "timeYear": 5,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
+    "timeDay": 12,
     "timeWeek": 8,
     "timeMonth": 7,
     "timeYear": 5,
@@ -67,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
+    "timeDay": 14,
     "timeWeek": 8,
     "timeMonth": 7,
     "timeYear": 5,
@@ -86,14 +86,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1186,
-    "timeDay": 1568,
-    "timeWeek": 1283,
-    "timeMonth": 1379,
-    "timeYear": 1203,
-    "dailyMinutesDown": {
-      "2024-11-07": 20
-    }
+    "time": 1185,
+    "timeDay": 1063,
+    "timeWeek": 1249,
+    "timeMonth": 1373,
+    "timeYear": 1204,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lucas Barbershop",
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2480,
-    "timeDay": 2909,
-    "timeWeek": 2134,
-    "timeMonth": 2321,
-    "timeYear": 2403,
+    "time": 2479,
+    "timeDay": 2446,
+    "timeWeek": 2177,
+    "timeMonth": 2325,
+    "timeYear": 2404,
     "dailyMinutesDown": {
       "2025-08-13": 102
     }
@@ -126,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4232,
-    "timeDay": 5003,
-    "timeWeek": 4870,
-    "timeMonth": 4316,
-    "timeYear": 4232,
+    "time": 4235,
+    "timeDay": 4569,
+    "timeWeek": 4836,
+    "timeMonth": 4365,
+    "timeYear": 4235,
     "dailyMinutesDown": {}
   },
   {
@@ -144,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4522,
-    "timeDay": 4754,
-    "timeWeek": 4863,
-    "timeMonth": 4804,
-    "timeYear": 4522,
+    "time": 4524,
+    "timeDay": 4924,
+    "timeWeek": 4954,
+    "timeMonth": 4755,
+    "timeYear": 4524,
     "dailyMinutesDown": {}
   }
 ]
