@@ -98,10 +98,10 @@
     "url": "https://lucasbarbershop.sk",
     "icon": "https://icons.duckduckgo.com/ip3/lucasbarbershop.sk.ico",
     "slug": "lucas-barbershop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2504,
@@ -110,6 +110,7 @@
     "timeMonth": 2947,
     "timeYear": 2452,
     "dailyMinutesDown": {
+      "2025-12-31": 1,
       "2025-08-13": 102
     }
   },
@@ -118,9 +119,9 @@
     "url": "https://rraw.sk",
     "icon": "https://icons.duckduckgo.com/ip3/rraw.sk.ico",
     "slug": "r-raw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,16 +130,18 @@
     "timeWeek": 3447,
     "timeMonth": 4048,
     "timeYear": 4238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-31": 0
+    }
   },
   {
     "name": "Woof Pack",
     "url": "https://woofpack.sk",
     "icon": "https://icons.duckduckgo.com/ip3/woofpack.sk.ico",
     "slug": "woof-pack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,6 +150,8 @@
     "timeWeek": 3343,
     "timeMonth": 3378,
     "timeYear": 4421,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-31": 0
+    }
   }
 ]
