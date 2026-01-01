@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 5,
+    "timeDay": 2,
     "timeWeek": 9,
     "timeMonth": 7,
     "timeYear": 5,
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
-    "timeWeek": 9,
+    "timeDay": 11,
+    "timeWeek": 10,
     "timeMonth": 8,
     "timeYear": 5,
     "dailyMinutesDown": {
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
-    "timeWeek": 9,
+    "timeDay": 9,
+    "timeWeek": 10,
     "timeMonth": 8,
     "timeYear": 5,
     "dailyMinutesDown": {
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1197,
-    "timeDay": 1155,
-    "timeWeek": 1357,
-    "timeMonth": 1323,
-    "timeYear": 1219,
+    "timeDay": 1377,
+    "timeWeek": 1274,
+    "timeMonth": 1325,
+    "timeYear": 1220,
     "dailyMinutesDown": {}
   },
   {
@@ -100,17 +100,16 @@
     "slug": "lucas-barbershop",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2503,
-    "timeDay": 2131,
-    "timeWeek": 2396,
-    "timeMonth": 2914,
-    "timeYear": 2451,
+    "time": 2502,
+    "timeDay": 2024,
+    "timeWeek": 2412,
+    "timeMonth": 2736,
+    "timeYear": 2450,
     "dailyMinutesDown": {
-      "2025-12-31": 11,
       "2025-08-13": 102
     }
   },
@@ -121,18 +120,16 @@
     "slug": "r-raw",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4235,
-    "timeDay": 3467,
-    "timeWeek": 3477,
-    "timeMonth": 4036,
-    "timeYear": 4235,
-    "dailyMinutesDown": {
-      "2025-12-31": 10
-    }
+    "time": 4232,
+    "timeDay": 3627,
+    "timeWeek": 3458,
+    "timeMonth": 4055,
+    "timeYear": 4232,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Woof Pack",
@@ -141,17 +138,15 @@
     "slug": "woof-pack",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4418,
-    "timeDay": 3271,
-    "timeWeek": 3394,
-    "timeMonth": 3390,
-    "timeYear": 4418,
-    "dailyMinutesDown": {
-      "2025-12-31": 10
-    }
+    "time": 4411,
+    "timeDay": 3345,
+    "timeWeek": 3364,
+    "timeMonth": 3350,
+    "timeYear": 4411,
+    "dailyMinutesDown": {}
   }
 ]
